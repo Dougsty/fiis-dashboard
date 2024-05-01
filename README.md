@@ -28,4 +28,4 @@ The project was developed using the following technologies
 - [SQL Server](https://www.microsoft.com/pt-br/sql-server/sql-server-downloads)
 
 
-Developed by 🐻 por Douglas Costa
+Developed by Douglas Costa
