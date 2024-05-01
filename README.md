@@ -1,13 +1,31 @@
 <div align="center">
-  <img src="https://github.com/Dougsty/Projects/assets/74849339/12c14723-c042-4e1d-8560-74c9553a2d60" width="150%">
+  <img src="https://github.com/Dougsty/fiis-dashboard/blob/master/DashBoard/Dashboard%20Picture.png?raw=true" width="150%">
 </div>
 
-<h3 align="center">O projeto consiste em acompanhamento basico dos dados de FII's para acompanhamento de carteira pessoal :-)
+# 🔍 Summary
 
-<h3 align="center">O projeto consiste de:
+- [About](#-sobre)
+- [Tech Stack](#-tecnologias-utilizadas)
 
-<h3 align="center">1 - Scrip para coletar os dados de todos os FIIS da B3 mais recente e o adiciona a um historico em excel.
+## 📗 About
 
-<h3 align="center">2 - O acompanhamento pode ser feito tanto por excel, quanto por Power Bi.
+The project consists of a basic and interactive visualization of FII's data for sending a personal portfolio.
 
-obs: Por enquanto o escript segue rodando por fora do Power BI, mas pretendoa dicionar para ser algo integrado futuramente.
+---
+
+## 👨‍🚀 Next Updates
+
+- More pages related to personnal stock fii
+- A automatized daily extraction
+
+---
+
+## 🚀 Technologies used
+
+The project was developed using the following technologies
+
+- [Python](https://www.python.org/)
+- [SQL Server](https://www.microsoft.com/pt-br/sql-server/sql-server-downloads)
+
+
+Developed by 🐻 por Douglas Costa
