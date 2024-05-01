@@ -2,6 +2,14 @@
   <img src="https://github.com/Dougsty/fiis-dashboard/blob/master/DashBoard/Dashboard%20Picture.png?raw=true" width="150%">
 </div>
 
+
+
+:file_folder: Pipeline diagram
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Dougsty/fiis-dashboard/master/Documentation/Diagram/Fiis%20Pipeline%20Diagram.png" width="150%">
+</div>
+
 # 🔍 Summary
 
 - [About](#-sobre)
