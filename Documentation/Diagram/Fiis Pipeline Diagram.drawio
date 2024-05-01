@@ -1,0 +1,69 @@
+<mxfile host="app.diagrams.net" modified="2024-05-01T19:55:47.941Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="9unLCK0eXN-n4Hw1Ku8A" version="24.3.1" type="device">
+  <diagram name="Page-1" id="JZKlk1PbDP_T1eMDRSRa">
+    <mxGraphModel dx="1185" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KenLReLiB5tyJM1gTIXP-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="KenLReLiB5tyJM1gTIXP-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="493.70000000000005" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KenLReLiB5tyJM1gTIXP-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KenLReLiB5tyJM1gTIXP-8" target="KenLReLiB5tyJM1gTIXP-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="290" y="550" />
+              <mxPoint x="310" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KenLReLiB5tyJM1gTIXP-8" value="Script" style="html=1;whiteSpace=wrap;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;sketch=0;shape=mxgraph.sitemap.script;" vertex="1" parent="1">
+          <mxGeometry x="240" y="474.35" width="70" height="38.7" as="geometry" />
+        </mxCell>
+        <mxCell id="KenLReLiB5tyJM1gTIXP-13" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/document-icons-2/30/647702-excel-128.png" vertex="1" parent="1">
+          <mxGeometry x="330" y="516" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="KenLReLiB5tyJM1gTIXP-15" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/dep/SQL_Server_Stretch_DB.svg;" vertex="1" parent="1">
+          <mxGeometry x="339" y="390" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KenLReLiB5tyJM1gTIXP-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.631;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KenLReLiB5tyJM1gTIXP-8" target="KenLReLiB5tyJM1gTIXP-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="290" y="422" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KenLReLiB5tyJM1gTIXP-17" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/analytics/Power_BI_Embedded.svg;" vertex="1" parent="1">
+          <mxGeometry x="510" y="445.05" width="51" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="KenLReLiB5tyJM1gTIXP-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.514;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KenLReLiB5tyJM1gTIXP-13" target="KenLReLiB5tyJM1gTIXP-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="550" />
+              <mxPoint x="440" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KenLReLiB5tyJM1gTIXP-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.514;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KenLReLiB5tyJM1gTIXP-15" target="KenLReLiB5tyJM1gTIXP-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="415" />
+              <mxPoint x="440" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KenLReLiB5tyJM1gTIXP-22" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_globe.svg;" vertex="1" parent="1">
+          <mxGeometry x="110" y="460.7" width="66" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="KenLReLiB5tyJM1gTIXP-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KenLReLiB5tyJM1gTIXP-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KenLReLiB5tyJM1gTIXP-23" value="Daily fii stock value.csv" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" vertex="1" parent="1">
+          <mxGeometry x="160" y="395.05" width="100" height="44.95" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
